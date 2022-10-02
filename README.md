@@ -37,7 +37,7 @@ Max Frame Rate: 60 FPS
 
 Part D)
 
- Used the calibrate.py script from depthai github repository to capture images in 13 different angles and found the calibration results below:
+ Used the calibrate.py script from depthai folder in  github repository to capture images in 13 different angles and found the calibration results below:
 
 Intrinsic Matrix
 
